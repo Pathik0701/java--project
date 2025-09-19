@@ -35,6 +35,8 @@ Follow these steps to get the project running on your local machine.
 ### Project Structure
 Ensure your project has an `icons` folder inside your source path (e.g., inside the `src` folder) and that the `front.gif` file is placed inside it. The code uses `ClassLoader.getSystemResource()` to find this file.
 
+---
+
 src
 └── icons
 └── front.gif

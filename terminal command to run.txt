@@ -1,0 +1,2 @@
+1: javac -cp ".;lib/*" employee\management\system\*.java
+2: java -cp ".;lib/*" employee.management.system.Splash

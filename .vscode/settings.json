@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "employee/management/system"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\pathi\\Downloads\\mysql-connector-java-8.0.28.jar",
+            "c:\\Users\\pathi\\Downloads\\jcalendar-tz-1.3.3-4.jar",
+            "c:\\Users\\pathi\\Downloads\\ResultSet2xml.jar"
+        ],
+        "exclude": [
+            "lib/jcalendar-tz-1.3.3-4.jar"
+        ]
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
